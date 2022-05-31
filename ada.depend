@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636609244 source:c:\users\user\desktop\cuarto semestre entre comillas\seminario estructuras de datos\ada\main.cpp
+	<iostream>
+	<stdlib.h>
+	<limits>
+
